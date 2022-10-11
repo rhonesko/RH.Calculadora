@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RH.Calculadora.Console", "src\RH.Calculadora.Console\RH.Calculadora.Console.csproj", "{A4F28FA1-B748-4A92-B62C-468F047C3320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F28FA1-B748-4A92-B62C-468F047C3320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F28FA1-B748-4A92-B62C-468F047C3320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F28FA1-B748-4A92-B62C-468F047C3320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F28FA1-B748-4A92-B62C-468F047C3320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C48EC0F-D548-4D45-850D-6C1ADEC84039}
+	EndGlobalSection
+EndGlobal
